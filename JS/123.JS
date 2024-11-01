@@ -1,1 +1,1 @@
-javascript:alert(1)
+javascript:alert(document.cookie)
